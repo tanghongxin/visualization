@@ -1,0 +1,14 @@
+{
+  "name": "visualization",
+  "version": "1.0.0",
+  "author": "hongxin.tang@hotmail.com",
+  "description": "Vue-based data visualization designer",
+  "keywords": [
+    "visualization",
+    "visual",
+    "vue",
+    "charts",
+    "draggable",
+    "design"
+  ]
+}
