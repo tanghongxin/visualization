@@ -6,7 +6,7 @@ Vue-based data visualization designer
 > **Note:** This is just a public entrance for the original repo which is private, for your attention and experience
 
 ## Play Online
-[Visualization](https://visual.abyssal.site)
+[Visualization](https://visual.ado.icu)
 
 ## Features
 * Draw views by dragging and dropping

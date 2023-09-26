@@ -6,7 +6,7 @@
 > **Note:** 该项目仅作为一个私有仓库的公共入口，供您关注与尝试
 
 ## 在线尝试
-[Visualization](https://visual.abyssal.site/)
+[Visualization](https://visual.ado.icu/)
 
 ## 特性
 * 以拖拽的方式绘制视图
